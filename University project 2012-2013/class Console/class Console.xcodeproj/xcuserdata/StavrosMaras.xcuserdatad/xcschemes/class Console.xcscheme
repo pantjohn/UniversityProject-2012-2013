@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "38E852AE16541C5100B16654"
-               BuildableName = "University project 2012-2013"
-               BlueprintName = "University project 2012-2013"
-               ReferencedContainer = "container:University project 2012-2013.xcodeproj">
+               BlueprintIdentifier = "38706CD81667E79600224E63"
+               BuildableName = "class Console"
+               BlueprintName = "class Console"
+               ReferencedContainer = "container:class Console.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38E852AE16541C5100B16654"
-            BuildableName = "University project 2012-2013"
-            BlueprintName = "University project 2012-2013"
-            ReferencedContainer = "container:University project 2012-2013.xcodeproj">
+            BlueprintIdentifier = "38706CD81667E79600224E63"
+            BuildableName = "class Console"
+            BlueprintName = "class Console"
+            ReferencedContainer = "container:class Console.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38E852AE16541C5100B16654"
-            BuildableName = "University project 2012-2013"
-            BlueprintName = "University project 2012-2013"
-            ReferencedContainer = "container:University project 2012-2013.xcodeproj">
+            BlueprintIdentifier = "38706CD81667E79600224E63"
+            BuildableName = "class Console"
+            BlueprintName = "class Console"
+            ReferencedContainer = "container:class Console.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38E852AE16541C5100B16654"
-            BuildableName = "University project 2012-2013"
-            BlueprintName = "University project 2012-2013"
-            ReferencedContainer = "container:University project 2012-2013.xcodeproj">
+            BlueprintIdentifier = "38706CD81667E79600224E63"
+            BuildableName = "class Console"
+            BlueprintName = "class Console"
+            ReferencedContainer = "container:class Console.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

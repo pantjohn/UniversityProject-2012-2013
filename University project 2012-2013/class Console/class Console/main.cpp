@@ -1,8 +1,8 @@
 //
 //  main.cpp
-//  University project 2012-2013
+//  class Console
 //
-//  Created by Stavros Maras on 11/14/12.
+//  Created by Stavros Maras on 11/29/12.
 //  Copyright (c) 2012 Stavros Maras. All rights reserved.
 //
 

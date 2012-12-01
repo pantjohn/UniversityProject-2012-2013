@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>University project 2012-2013.xcscheme</key>
+		<key>class Console.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>38E852AE16541C5100B16654</key>
+		<key>38706CD81667E79600224E63</key>
 		<dict>
 			<key>primary</key>
 			<true/>
